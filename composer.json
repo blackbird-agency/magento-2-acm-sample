@@ -1,0 +1,33 @@
+{
+    "name": "blackbird/contentmanagersample",
+    "description": "",
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0",
+        "blackbird/contentmanager": "^100.1.0",
+        "magento/magento-composer-installer": "*"
+    },
+    "suggest": {
+
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "license": [
+
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Blackbird\\ContentManagerSample\\": ""
+        }
+    },
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Blackbird/ContentManagerSample"
+            ]
+        ]
+    }
+}
