@@ -4,15 +4,12 @@
     "require": {
         "magento/magento-composer-installer": "*",
         "magento/framework": ">=100.0.0",
-        "blackbird/contentmanager": "^100.1.0"
-    },
-    "suggest": {
-
+        "blackbird/contentmanager": ">=100.1.0"
     },
     "type": "magento2-module",
     "version": "0.1.1",
     "license": [
-
+        "MIT"
     ],
     "autoload": {
         "files": [
