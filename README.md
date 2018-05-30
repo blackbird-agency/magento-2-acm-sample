@@ -1,6 +1,6 @@
 # ACM Data Sample for Magento 2
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/module-contentmamanger-sample-data.svg?style=flat-square)](https://packagist.org/packages/blackbird/module-contentmamanger-sample-data)
+[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/module-contentmanager-sample-data.svg?style=flat-square)](https://packagist.org/packages/blackbird/module-contentmanager-sample-data)
 [![License: MIT](https://img.shields.io/github/license/blackbird-agency/magento-2-acm-sample.svg?style=flat-square)](./LICENSE) 
 
 This repository is a bunch of data for the ACM module.
@@ -16,7 +16,7 @@ Unzip the package in app/code/Blackbird/ContentManagerSample
 **Composer Package:**
 
 ```
-composer require blackbird/module-contentmamanger-sample-data
+composer require blackbird/module-contentmanager-sample-data
 ```
 
 ### Install the module
