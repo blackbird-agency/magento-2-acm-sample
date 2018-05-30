@@ -1,5 +1,5 @@
 {
-    "name": "blackbird/module-contentmamanger-sample-data",
+    "name": "blackbird/module-contentmanager-sample-data",
     "description": "Sample data for the ACM2 module.",
     "keywords": [        
         "php",
@@ -13,7 +13,7 @@
         "blackbird/contentmanager": ">=100.1.0"
     },
     "type": "magento2-module",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "license": [
         "MIT"
     ],
