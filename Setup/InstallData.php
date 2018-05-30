@@ -1,6 +1,6 @@
 <?php
 /**
- * Blackbird Agency
+ * Blackbird ContentManagerSample Module
  *
  * NOTICE OF LICENSE
  * If you did not receive a copy of the license and are unable to
@@ -8,10 +8,10 @@
  * to contact@bird.eu so we can send you a copy immediately.
  *
  * @category        Blackbird
- * @package         Blackbird_Default (Template) Project
+ * @package         Blackbird_ContentManagerSample Project
  * @copyright       Copyright (c) 2017 Blackbird (https://black.bird.eu)
- * @author          thomas (Blackbird Team)
- * @license         https://www.store.bird.eu/license/
+ * @author          Thomas Klein (Blackbird Team)
+ * @license         MIT
  */
 namespace Blackbird\ContentManagerSample\Setup;
 
