@@ -9,11 +9,10 @@
         "content manager"
     ],
     "require": {
-        "magento/framework": ">=100.0.0",
-        "blackbird/contentmanager": ">=100.1.0"
+        "magento/framework": ">=100.0.0"
     },
     "type": "magento2-module",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "license": [
         "MIT"
     ],
